@@ -1,6 +1,6 @@
 FROM homeassistant/amd64-base-debian:latest
 
-ARG TZ=Europe/Amsterdam
+ARG TZ=Australia/Hobart
 
 RUN  echo 'deb http://http.us.debian.org/debian testing main non-free contrib' >> /etc/apt/sources.list &&\
     apt update &&\
