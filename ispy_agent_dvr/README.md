@@ -1,4 +1,4 @@
-# Home Assistant Add-on: iSpy Agent DVR
+# Home Assistant Add-On: iSpy Agent DVR
 ![version][version-shield] ![arch][arch-shield]
 
 [version-shield]: https://img.shields.io/badge/dynamic/yaml?color=success&label=version&query=version&url=https%3A%2F%2Fraw.githubusercontent.com%2Fljsquare%2Fhassio-addons%2Fmain%2Fispy_agent_dvr%2Fconfig.yaml
