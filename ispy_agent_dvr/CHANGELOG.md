@@ -1,4 +1,6 @@
 # Changelog
+## 1.0
+- fix file endings as UNIX LF in 'run' file
 ## 0.9
 - override for default folder
 ## 0.8
