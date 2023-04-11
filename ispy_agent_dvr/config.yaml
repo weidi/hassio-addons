@@ -22,7 +22,6 @@ ports:
   50008/udp: 50008
   50009/udp: 50009
   50010/udp: 50010
-image: rpimeekle/ispy_agent_dvr
 init: false
 webui: http://[HOST]:[PORT:8090]
 watchdog: http://[HOST]:[PORT:8090]
